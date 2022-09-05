@@ -3,3 +3,6 @@ variable "manage" {
 
 }
 
+variable "permission_set" {
+  
+}
